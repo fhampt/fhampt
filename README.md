@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about creating user-centered digital experiences and using data to drive smarter decisions. With a background in business, UX/UI design, and data analytics, I love solving problems at the intersection of empathy, design, and insights.
 
-I'm also a strong advocate for learning and using AI to enhance workflows, spark creativity, and create more meaningful user experiences.
+I'm also a strong advocate for learning and using AI to enhance workflows, spark creativity, and create more meaningful user experiences.  
+Outside of tech, I’m an avid reader and a lover of cozy bookstores — there’s nothing better than getting lost in a good story.
+
+## 💼 About Me
 
 ## 💼 About Me
 - 🎓 UX/UI Design Certificate – Springboard  
@@ -34,6 +37,11 @@ I'm also a strong advocate for learning and using AI to enhance workflows, spark
 ![Domo](https://img.shields.io/badge/Domo-%23005CA9.svg?style=flat&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-%234B4BFF.svg?style=flat&logo=looker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=flat&logo=postgresql&logoColor=white)
+
+
+## 📈 Contribution Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fhampt&bg_color=0d1117&color=ffffff&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
