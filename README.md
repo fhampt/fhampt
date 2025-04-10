@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Frenchell!
 
 Welcome to my GitHub profile! I'm passionate about creating user-centered digital experiences and using data to drive smarter decisions. With a background in business, UX/UI design, and data analytics, I love solving problems at the intersection of empathy, design, and insights.
 
