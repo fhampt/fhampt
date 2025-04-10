@@ -6,8 +6,6 @@ I'm also a strong advocate for learning and using AI to enhance workflows, spark
 Outside of tech, I’m an avid reader and a lover of cozy bookstores — there’s nothing better than getting lost in a good story.
 
 ## 💼 About Me
-
-## 💼 About Me
 - 🎓 UX/UI Design Certificate – Springboard  
 - 🎓 MBA in Business Administration  
 - 📊 Completed Data Analytics Program – Tech Moms & Weber State University  
